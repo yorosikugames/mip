@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace mip
 {
-    public partial class Form1 : Form
+    public partial class MIP : Form
     {
-        public Form1()
+        public MIP()
         {
             InitializeComponent();
         }
